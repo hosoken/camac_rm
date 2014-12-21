@@ -80,7 +80,7 @@ module camac_rm(
 	reg  [15:0] camac_reg2 =16'd0;  //serial
 	reg  [15:0] camac_reg3 =16'd0;  //dummy
 	reg  [15:0] camac_reg4 =16'd0;  //input register
-	reg  [15:0] camac_reg5 =16'd0;  //lock at me
+	reg  [15:0] camac_reg5 =16'd0;  //look at me
 
 //==============================================================================
 //          signal assign
